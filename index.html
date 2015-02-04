@@ -2,6 +2,8 @@
 <html>
 
   <head>
+  
+
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="FOSSawesome Games : A List of all things Games and Open Source">
@@ -56,7 +58,14 @@
       </footer>
     </div>
 
-    
+  <script type="text/javascript">
+
+  var datastring = "{{site.data.FOSSawesomeGames.json | jsonify}}";
+  var data = JSON.Parse(datastring);  
+
+  	
+
+  </script>
 
   </body>
 </html>
