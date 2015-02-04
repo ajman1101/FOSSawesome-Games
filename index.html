@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html ng-app="FossAwesome">
+<html>
 
   <head>
-
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="FOSSawesome Games : A List of all things Games and Open Source">
@@ -12,7 +11,7 @@
     <title>FOSSawesome Games</title>
   </head>
 
-  <body ng-controller="FossAwesomeCtrl">
+  <body>
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
@@ -40,25 +39,12 @@
 <h3>
 <a id="the-list" class="anchor" href="#the-list" aria-hidden="true"><span class="octicon octicon-link"></span></a>The List</h3>
 
-<table>
-    <tr>
-        <td>Title</td>
-        <td>Type</td>
-        <td>License</td>
-        <td>Link</td>
-    </tr>
-    <tr ng-repeat="game in content.FOSSawesomeGamesContent">
-        <td>{{game.title}}</td>
-        <td>{{game.type}}</td>
-        <td>{{game.license}}</td>
-        <td><a href="{{game.link}}">{{game.link}}</a></td>
-    </tr>
-</table>
+<p>Need a list here.</p>
 
 <h3>
 <a id="want-to-help" class="anchor" href="#want-to-help" aria-hidden="true"><span class="octicon octicon-link"></span></a>Want to Help?</h3>
 
-<p>This webpage is openly maintained and added to by anyone on Github.com <a href="https://github.com/ajman1101/FOSSawesome-Games">the GitHub.com repo</a> Any and all are welcome to contribute, though your patch will be checked to ensure it follows the above stated guidelines. </p>
+<p>This webpage is openly maintained and added to by anyone on <a href="https://github.com/ajman1101/FOSSawesome-Games">the GitHub.com repo</a> Any and all are welcome to contribute, though your patch will be checked to ensure it follows the above stated guidelines. </p>
       </section>
     </div>
 
@@ -70,21 +56,7 @@
       </footer>
     </div>
 
-  <script type="text/javascript" src="javascripts/angular.min.js"></script>
-  <script type="text/javascript">
-    angular
-        .module('FossAwesome', [])
-        .controller('FossAwesomeCtrl',
-        ['$scope', '$http',
-        function ($scope, $http) {
-
-            $http.get('FOSSawesomeGames.json')
-            .success(function (data) {
-                console.log(data);
-                $scope.content = data;
-            })
-        }]);
-  </script>
+    
 
   </body>
 </html>
