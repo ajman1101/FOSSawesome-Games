@@ -48,5 +48,11 @@
             "license": "GPLv1",
             "link": "http://www.apogeesoftware.com/uncategorized/apogee-releases-blake-stone-source-code"
         }
+        {
+            "title":"Rise of the Triad",
+            "type":"Game",
+            "license":"GPLv1",
+            "link":"http://www.codersnotes.com/files/gamesrc/rottsource.zip"
+        }
     ]
 }
