@@ -1,6 +1,10 @@
-{"FOSSawesomeGamesContent":[
-	{"title":"<a href="Sim City",
-	"type":"Game",
-	"license":"GPLv2",
-	"link":"http://www.donhopkins.com/drupal/taxonomy_menu/4/49/66"}
-]}
+{
+    "FOSSawesomeGamesContent": [
+        {
+            "title": "SimCity",
+            "type": "Game",
+            "license": "GPLv2",
+            "link": "http: //www.donhopkins.com/drupal/taxonomy_menu/4/49/66"
+        }
+    ]
+}
