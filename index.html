@@ -39,7 +39,20 @@
 <h3>
 <a id="the-list" class="anchor" href="#the-list" aria-hidden="true"><span class="octicon octicon-link"></span></a>The List</h3>
 
-<p>Need a list here.</p>
+<table>
+    <tr>
+        <td>Title</td>
+        <td>Type</td>
+        <td>License</td>
+        <td>Link</td>
+    </tr>
+    <tr ng-repeat="game in content.FOSSawesomeGamesContent">
+        <td>{{game.title}}</td>
+        <td>{{game.type}}</td>
+        <td>{{game.license}}</td>
+        <td><a href="{{game.link}}">{{game.link}}</a></td>
+    </tr>
+</table>
 
 <h3>
 <a id="want-to-help" class="anchor" href="#want-to-help" aria-hidden="true"><span class="octicon octicon-link"></span></a>Want to Help?</h3>
