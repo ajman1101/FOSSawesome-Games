@@ -68,7 +68,20 @@
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
-
+<script type="text/javascript" src="javascripts/angular.min.js"></script>
+  <script type="text/javascript">
+    angular
+        .module('FossAwesome', [])
+        .controller('FossAwesomeCtrl',
+        ['$scope', '$http',
+        function ($scope, $http) {
+            $http.get('FOSSawesomeGames.json')
+            .success(function (data) {
+                console.log(data);
+                $scope.content = data;
+            })
+        }]);
+  </script>
     
 
   </body>
