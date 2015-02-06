@@ -1,6 +1,6 @@
 before_install:
   - "sudo apt-get install -y npm"
-  - "sudp npm install jsonlint -g"
+  - "sudo npm install jsonlint -g"
 
 script:
   - "jsonlint -s FOSSawesomeGames.json"
