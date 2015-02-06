@@ -59,6 +59,24 @@
 	    "type":"Game",
 	    "license":"GPLv3",
 	    "link":"https://github.com/OpenRA/OpenRA"
+	},
+	{
+	    "title":"Spring",
+	    "type":"Engine",
+	    "license":"GPLv2",
+	    "link":"https://github.com/spring/spring"
+	},
+	{
+	    "title":"Chromium B.S.U.",
+	    "type":"Game",
+	    "license":"The Clarified Artistic License",
+	    "link":"http://chromium-bsu.sourceforge.net/"
+	},
+	{
+	    "title":"Nethack",
+	    "type":"Game",
+	    "license":"The Nethack General Public License",
+	    "link":"http://www.nethack.org/v343/download-src.html"
 	}
     ]
 }
