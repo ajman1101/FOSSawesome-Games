@@ -1,0 +1,5 @@
+install:
+  - "apt-get install jsonlint"
+
+script:
+  - "jsonlint -s FOSSawesomeGames.json"
