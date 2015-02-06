@@ -1,0 +1,344 @@
+{
+    "OSI": [
+	{
+	    "title": "Academic Free License",
+	    "versions": ["3.0"],
+	    "alias": "AFL"
+	},
+	{
+	    "title": "Affero GNU Public License",
+	    "versions": ["3.0"],
+	    "alias": "AGPL"
+	},
+	{
+	    "title": "Adaptive Public License",
+	    "versions": ["1.0"],
+	    "alias": "APL"
+	},
+	{
+	    "title": "Apache License",
+	    "versions": ["2.0"],
+	    "alias": "Apache"
+	},
+	{
+	    "title": "Apple Public Source License",
+	    "versions": ["2.0"],
+	    "alias": "APSL"
+	},
+	{
+	    "title": "Artistic license",
+	    "versions": ["2.0"],
+	    "alias": "Artistic"
+	},
+	{
+	    "title": "Attribution Assurance Licenses",
+	    "versions": [],
+	    "alias": "AAL"
+	},
+	{
+	    "title": "BSD 3-Clause \"New\" or \"Revised\" License",
+	    "versions": [],
+	    "alias": "BSD-3-Clause"
+	},
+	{
+	    "title": "BSD 2-Clause \"Simplified\" or \"FreeBSD\" License",
+	    "versions": [],
+	    "alias": "BSD-2-Clause"
+	},
+	{
+	    "title": "Boost Software License",
+	    "versions": ["1.0"],
+	    "alias": "BSL"
+	},
+	{
+	    "title": "CeCILL License",
+	    "versions": ["2.1"],
+	    "alias": "CECILL"
+	},
+	{
+	    "title": "Computer Associates Trusted Open Source License",
+	    "versions": ["1.1"],
+	    "alias": "CATOSL"
+	},
+	{
+	    "title": "Common Development and Distribution License",
+	    "versions": ["1.0"],
+	    "alias": "CDDL"
+	},
+	{
+	    "title": "Common Public Attribution License",
+	    "versions": ["1.0"],
+	    "alias": "CPAL"
+	},
+	{
+	    "title": "CUA Office Public License",
+	    "versions": ["1.0"],
+	    "alias": "CUA-OP"
+	},
+	{
+	    "title": "EU DataGrid Software License",
+	    "versions": [],
+	    "alias": "EUDatagrid"
+	},
+	{
+	    "title": "Eclipse Public License",
+	    "verions": ["1.0"],
+	    "alias": "EPL"
+	},
+	{
+	    "title": "Educational Community License",
+	    "versions": ["2.0"],
+	    "alias": "ECL"
+	},
+	{
+	    "title": "Eiffel Forum License",
+	    "versions": ["2.0"],
+	    "alias": "EFL"
+	},
+	{
+	    "title": "Entessa Public License",
+	    "versions": [],
+	    "alias": "Entessa"
+	},
+	{
+	    "title": "European Union Public License",
+	    "versions": "1.1",
+	    "alias": "EUPL"
+	},
+	{
+	    "title": "Fair License",
+	    "versions": [],
+	    "alias": "Fair"
+	},
+	{
+	    "title": "Frameworx License",
+	    "versions": ["1.0"],
+	    "alias": "Frameworx"
+	},
+	{
+	    "title": "GNU Affero General Public License",
+	    "versions": ["3.0"],
+	    "alias": "AGPL"
+	},
+	{
+	    "title": "GNU General Public License",
+	    "versions": ["2.0", "3.0"],
+	    "alias": "GPL"
+	},
+	{
+	    "title": "GNU Library or \"Lesser\" General Public License",
+	    "versions": ["2.1", "3.0"],
+	    "alias": "LGPL"
+	},
+	{
+	    "title": "Historical Permission Notice and Disclaimer",
+	    "versions": [],
+	    "alias": "HPND"
+	},
+	{
+	    "title": "IBM Public License",
+	    "versions": ["1.0"],
+	    "alias": "IPL"
+	},
+	{
+	    "title": "IPA Font License",
+	    "versions": [],
+	    "alias": "IPA"
+	},
+	{
+	    "title": "ISC License",
+	    "versions": [],
+	    "alias": "ISC"
+	},
+	{
+	    "title": "LaTeX Project Public License",
+	    "versions": ["1.3c"],
+	    "alias": "LPPL"
+	},
+	{
+	    "title": "Lucent Public License",
+	    "versions": ["1.02"],
+	    "alias": "LPL"
+	},
+	{
+	    "title": "MirOS Licence",
+	    "versions": [],
+	    "alias": "MirOS"
+	},
+	{
+	    "title": "Microsoft Public License",
+	    "versions": [],
+	    "alias": "MS-PL"
+	},
+	{
+	    "title": "Microsoft Reciprocal License",
+	    "versions": [],
+	    "alias": "MS-RL"
+	},
+	{
+	    "title": "MIT license",
+	    "versions": [],
+	    "alias": "MIT"
+	},
+	{
+	    "title": "Motosoto License",
+	    "versions": [],
+	    "alias": "Motosoto"
+	},
+	{
+	    "title": "Mozilla Public License",
+	    "versions": ["2.0"],
+	    "alias": "MPL"
+	},
+	{
+	    "title": "Multics License",
+	    "versions": [],
+	    "alias": "Multics"
+	},
+	{
+	    "title": "NASA Open Source Agreement",
+	    "versions": ["1.3"],
+	    "alias": "NASA"
+	},
+	{
+	    "title": "NTP License",
+	    "versions": [],
+	    "alias": "NTP"
+	},
+	{
+	    "title": "Naumen Public License",
+	    "versions": [],
+	    "alias": "Naumen"
+	},
+	{
+	    "title": "Nethack General Public License",
+	    "versions": [],
+	    "alias": "NGPL"
+	},
+	{
+	    "title": "Nokia Open Source License",
+	    "versions": [],
+	    "alias": "Nokia"
+	},
+	{
+	    "title": "Non-Profit Open Software License",
+	    "versions": ["3.0"],
+	    "alias": "NPOSL"
+	},
+	{
+	    "title": "OCLC Research Public License",
+	    "versions": ["2.0"],
+	    "alias": "OCLC"
+	},
+	{
+	    "title": "Open Font License",
+	    "versions": ["1.1"],
+	    "alias": "OFL"
+	},
+	{
+	    "title": "Open Group Test Suite License",
+	    "versions": [],
+	    "alias": "OGTSL"
+	},
+	{
+	    "title": "Open Software License",
+	    "versions": ["3.0"],
+	    "alias": "OSL"
+	},
+	{
+	    "title": "PHP License",
+	    "versions": ["3.0"],
+	    "alias": "PHP"
+	},
+	{
+	    "title": "The PostgreSQL License",
+	    "versions": [],
+	    "alias": "PostgreSQL"
+	},
+	{
+	    "title": "Python License",
+	    "versions": ["2.0"],
+	    "alias": "Python"
+	},
+	{
+	    "title": "CNRI Python license",
+	    "versions": [],
+	    "alias": "CNRI-Python"
+	},
+	{
+	    "title": "Q Public License",
+	    "versions": ["1.0"],
+	    "alias": "QPL"
+	},
+	{
+	    "title": "RealNetworks Public Source License",
+	    "versions": ["1.0"],
+	    "alias": "RPSL"
+	},
+	{
+	    "title": "Reciprocal Public License",
+	    "versions": ["1.5"],
+	    "alias": "RPL"
+	},
+	{
+	    "title": "Ricoh Source Code Public License",
+	    "versions": [],
+	    "alias": "RSCPL"
+	},
+	{
+	    "title": "Simple Public License",
+	    "versions": ["2.0"],
+	    "alias": "SimPL"
+	},
+	{
+	    "title": "Sleepycat License",
+	    "versions": [],
+	    "alias": "Sleepycat"
+	},
+	{
+	    "title": "Sun Public License",
+	    "versions": ["1.0"],
+	    "alias": "SPL"
+	},
+	{
+	    "title": "Sybase Open Watcom Public License",
+	    "versions": ["1.0"],
+	    "alias": "Watcom"
+	},
+	{
+	    "title": "University of Illinois/NCSA Open Source License",
+	    "versions": [],
+	    "alias": "NCSA"
+	},
+	{		
+	    "title": "Vovida Software License",
+	    "versions": ["1.0"],
+	    "alias": "VSL"
+	},
+	{
+	    "title": "W3C License",
+	    "versions": [],
+	    "alias": "W3C"
+	},
+	{
+	    "title": "wxWindows Library License",
+	    "versions": [],
+	    "alias": "wxWindows"
+	},
+	{
+	    "title": "X.Net License",
+	    "versions": [],
+	    "alias": "Xnet"
+	},
+	{
+	    "title": "Zope Public License",
+	    "versions": ["2.0"],
+	    "alias": "ZPL"
+	},
+	{
+	    "title": "zlib/libpng License",
+	    "versions": [],
+	    "alias": "Zlib"
+	}
+    ]
+}
