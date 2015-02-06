@@ -59,6 +59,12 @@
 	    "type":"Game",
 	    "license":"GPLv3",
 	    "link":"https://github.com/OpenRA/OpenRA"
+	},
+	{
+	    "title":"Spring",
+	    "type":"Engine",
+	    "license":"GPLv2",
+	    "link":"https://github.com/spring/spring"
 	}
     ]
 }
