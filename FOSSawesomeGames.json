@@ -71,6 +71,12 @@
 	    "type":"Game",
 	    "license":"The Clarified Artistic License",
 	    "link":"http://chromium-bsu.sourceforge.net/"
+	},
+	{
+	    "title":"Nethack",
+	    "type":"Game",
+	    "license":"The Nethack General Public License",
+	    "link":"http://www.nethack.org/v343/download-src.html"
 	}
     ]
 }
