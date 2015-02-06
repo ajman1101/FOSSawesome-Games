@@ -3,6 +3,7 @@
 import json
 
 if __name__ == "__main__":
+    ret = 0
     fgn = open('FOSSawesomeGames.json', 'r')
     lgn = open('licenses.json', 'r')
 
@@ -21,11 +22,15 @@ if __name__ == "__main__":
             for dblicense in osidb:
                 if dblicense['title'] == license:
                     validated = True
+                elif dblicense['alias'] == license:
+                    validated = True
 
             if validated == True:
                 print "OK: " + game['title']
             else:
                 print "FAIL: " + game['title'] + ", INVALID LICENSE (" + license + ")"
+                ret = 1
 
     fgn.close()
+    exit(ret)
         

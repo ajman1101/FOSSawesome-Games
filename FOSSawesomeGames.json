@@ -3,79 +3,79 @@
         {
             "title": "Sim City",
             "type": "Game",
-            "license": "GPLv2",
+            "license": "GPL",
             "link": "http://www.donhopkins.com/drupal/taxonomy_menu/4/49/66"
         },
         {
             "title": "Catacomb",
             "type": "Game",
-            "license": "GPLv2",
+            "license": "GPL",
             "link": "http://github.com/FlatRockSoft/Catacomb"
         },
         {
             "title": "Heretic/Hexen",
             "type": "Game",
-            "license": "GPLv2",
+            "license": "GPL",
             "link": "http://sourceforge.net/projects/heretic/"
         },
         {
             "title": "Quake",
             "type": "Game",
-            "license": "GPLv1",
+            "license": "GPL",
             "link": "https://github.com/id-Software/Quake"
         },
         {
             "title": "Quake 2",
             "type": "Game",
-            "license": "GPLv1",
+            "license": "GPL",
             "link": "https://github.com/id-Software/Quake-2"
         },
         {
             "title": "Quake 3 Arena",
             "type": "Game",
-            "license": "GPLv1",
+            "license": "GPL",
             "link": "https://github.com/id-Software/Quake-III-Arena"
         },
         {
             "title": "DOOM 3",
             "type": "Game",
-            "license": "GPLv1",
+            "license": "GPL",
             "link": "https://github.com/id-Software/DOOM-3"
         },
         {
             "title": "Blake Stone",
             "type": "Game",
-            "license": "GPLv1",
+            "license": "GPL",
             "link": "http://www.apogeesoftware.com/uncategorized/apogee-releases-blake-stone-source-code"
         },
         {
             "title":"Rise of the Triad",
             "type":"Game",
-            "license":"GPLv1",
+            "license":"GPL",
             "link":"http://www.codersnotes.com/files/gamesrc/rottsource.zip"
         },
 	{
 	    "title":"OpenRA",
 	    "type":"Game",
-	    "license":"GPLv3",
+	    "license":"GPL",
 	    "link":"https://github.com/OpenRA/OpenRA"
 	},
 	{
 	    "title":"Spring",
 	    "type":"Engine",
-	    "license":"GPLv2",
+	    "license":"GPL",
 	    "link":"https://github.com/spring/spring"
 	},
 	{
 	    "title":"Chromium B.S.U.",
 	    "type":"Game",
-	    "license":"The Clarified Artistic License",
+	    "license":"Artistic License",
 	    "link":"http://chromium-bsu.sourceforge.net/"
 	},
 	{
 	    "title":"Nethack",
 	    "type":"Game",
-	    "license":"The Nethack General Public License",
+	    "license":"Nethack General Public License",
 	    "link":"http://www.nethack.org/v343/download-src.html"
 	}
     ]
