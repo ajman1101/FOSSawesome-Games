@@ -53,6 +53,12 @@
             "type":"Game",
             "license":"GPLv1",
             "link":"http://www.codersnotes.com/files/gamesrc/rottsource.zip"
-        }
+        },
+	{
+	    "title":"OpenRA",
+	    "type":"Game",
+	    "license":"GPLv3",
+	    "link":"https://github.com/OpenRA/OpenRA"
+	}
     ]
 }
