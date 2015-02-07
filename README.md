@@ -1,5 +1,5 @@
 # FOSSawesome-Games
-A list of all things Games and Open Source
+A list of all things Games and Open Source [![Build Status](https://api.travis-ci.org/WillDignazio/FOSSawesome-Games.png)](https://travis-ci.org/WillDignazio/FOSSawesome-Games)
 
 ##FOSSawesome Games Guidelines
 All entries MUST use an [OSI approved license](http://opensource.org/licenses/alphabetical) and be game related. Entries can be very tangentialy related to games.
