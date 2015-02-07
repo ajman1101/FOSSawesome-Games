@@ -1,0 +1,8 @@
+before_install:
+  - "sudo apt-get install -y python-demjson"
+  - "chmod +x ./validate.py"
+
+script:
+  - "jsonlint -s licenses.json"
+  - "jsonlint -s FOSSawesomeGames.json"
+  - "./validate.py"
